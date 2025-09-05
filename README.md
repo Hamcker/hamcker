@@ -23,9 +23,10 @@ Now focusing on **software architecture**, I aim to use my experience to build h
 
 ##  GitHub Stats
 
-<img src="https://github-stats-ruddy-beta.vercel.app/api?username=hamcker&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-<img src="https://github-stats-ruddy-beta.vercel.app/api/top-langs/?username=hamcker&layout=compact&theme=radical" alt="Top Languages" />
+|||
+|---|---|
+| <img src="https://github-stats-ruddy-beta.vercel.app/api?username=hamcker&show_icons=true&theme=radical" alt="GitHub Stats" /> | 
+<img src="https://github-stats-ruddy-beta.vercel.app/api/top-langs/?username=hamcker&layout=compact&theme=radical" alt="Top Languages" /> |
 
 ---
 
