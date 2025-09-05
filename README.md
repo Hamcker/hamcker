@@ -50,7 +50,7 @@ I'm always open to networking, discussing architecture, or exploring new opportu
 
 - 🔗 LinkedIn: [linkedin.com/in/hamcker](https://linkedin.com/in/hamcker)
 -  GitHub: [hamcker](https://github.com/hamcker)
--  Email: *your.email@example.com*
+-  Email: *hamcker@gmail.com*
 
 ---
 
