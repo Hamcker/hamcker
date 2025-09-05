@@ -1,4 +1,4 @@
-# Hi there, I’m Ham! 👋
+# Hi there, I’m Hamed! 👋
 
 ### Bio
 With over **21 years** of experience as a software developer, I have a solid background in **full-stack development** and expertise in **.NET**, **Angular**, and **React**. I thrive on innovation, consistently delivering efficient and cost-effective solutions that improve workflows. My passion for learning and embracing new technologies enables me to create scalable and reliable systems. Known for my problem-solving skills and a fresh approach, I design solutions that meet both technical and business needs.
