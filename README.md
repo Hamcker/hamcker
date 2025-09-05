@@ -35,18 +35,6 @@ Now focusing on **software architecture**, I aim to use my experience to build h
 
 ---
 
-##  Featured Projects
-
-*(Replace these placeholders with actual project names and descriptions.)*
-
-| Project Name | Description |
-|--------------|-------------|
-| **Project A** | _A brief one-liner describing what it does and why it's cool._ |
-| **Project B** | _A brief one-liner describing what it does and technology highlights._ |
-| **Project C** | _A brief one-liner, perhaps noting any key architecture or innovation._ |
-
----
-
 ##  Professional Focus
 
 - **Software Architecture** — Designing scalable, maintainable, and high-performance systems.
