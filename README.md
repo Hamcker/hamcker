@@ -55,21 +55,3 @@ I'm always open to networking, discussing architecture, or exploring new opportu
 ---
 
 > “Building architecture that enables innovation, efficiency, and growth.”
-
----
-
-###  Customization Steps
-
-| Area | What to Replace |
-|------|------------------|
-| GitHub Stats | `hamcker` with your actual GitHub handle |
-| Projects | Fill in actual project names and descriptions |
-| Contact Info | Update email or any other links you want to include |
-| Theme | Consider adjusting theme in `github-readme-stats` to fit your style (e.g., `dark`, `blue-white`, `gruvbox`, etc.) — see documentation [here](https://github.com/anuraghazra/github-readme-stats) |
-
----
-
-This layout will give your GitHub profile a clean, professional, and dynamic presentation—showcasing your depth of experience in architecture, modern tech frameworks, and your rich history in full-stack development.
-
-Once you're ready to populate with your actual project details or want suggestions for badge colors and layout tweaks, just let me know—happy to refine!
-::contentReference[oaicite:0]{index=0}
