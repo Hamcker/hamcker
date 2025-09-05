@@ -24,6 +24,7 @@ Now focusing on **software architecture**, I aim to use my experience to build h
 ##  GitHub Stats
 
 <p align="center">
+  <img src="https://github-stats-ruddy-beta.vercel.app/api?username=hamcker&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=hamcker&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
