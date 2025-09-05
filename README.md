@@ -24,11 +24,11 @@ Now focusing on **software architecture**, I aim to use my experience to build h
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamcker&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamcker&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ Now focusing on **software architecture**, I aim to use my experience to build h
 I'm always open to networking, discussing architecture, or exploring new opportunities.
 
 - 🔗 LinkedIn: [linkedin.com/in/hamcker](https://linkedin.com/in/hamcker)
--  GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+-  GitHub: [hamcker](https://github.com/hamcker)
 -  Email: *your.email@example.com*
 
 ---
@@ -72,7 +72,7 @@ I'm always open to networking, discussing architecture, or exploring new opportu
 
 | Area | What to Replace |
 |------|------------------|
-| GitHub Stats | `YOUR_GITHUB_USERNAME` with your actual GitHub handle |
+| GitHub Stats | `hamcker` with your actual GitHub handle |
 | Projects | Fill in actual project names and descriptions |
 | Contact Info | Update email or any other links you want to include |
 | Theme | Consider adjusting theme in `github-readme-stats` to fit your style (e.g., `dark`, `blue-white`, `gruvbox`, etc.) — see documentation [here](https://github.com/anuraghazra/github-readme-stats) |
